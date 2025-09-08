@@ -44,6 +44,7 @@ This project builds a **content-based recommender** that recommends movies simil
 * Compute pairwise cosine similarity between movies
 * Return recommendations based on similarity scores
 * Interactive script or notebook to test recommendations
+* Dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ---
 
